@@ -1,0 +1,7 @@
+---
+roles:
+  - 1
+patches:
+  - 2
+somethingelse:
+  - 3
