@@ -1,5 +1,5 @@
 - name: Test job
-  hosts: lxc-finch.local
+  hosts: all
   tasks:
     - name: Hello Message
       debug:
